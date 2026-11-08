@@ -1,0 +1,333 @@
+{
+  "checkedAt": "2026-11-08",
+  "assets": [
+    {
+      "path": "assets/night-aquarium-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/qrcYp_OD2yBiS5zqGRPq5GBx1RprAZ0OYaKBPr0NVCar7XjyD6HDhR7Q5-0I1OCHENXXnTU6XBCo5sIE0s48=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "aeb2090f9eaa46b2dbf13c12a156ff503bd2696d567ddb46eea3b91b4be86f46"
+    },
+    {
+      "path": "assets/night-aquarium-ja-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/gOmoa8e5ngdQ0rYs0uylPCLnW6bUCIBJ8N59MyqRYzTD6fy-rq30GR_OML40HvvNFmNJL2mgI6s7lV4_eR761g=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "f2a05520a8f5c6c67819ae4c472ffd7dcf42fbb7a7486720e3257ffac926ac82"
+    },
+    {
+      "path": "assets/night-aquarium-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/9X3i0xhyd257EZOorJLXP8slu1C1X8fQrri8kGkLED21gl773YLvTuMNtpBw70q3tqZiC97AxCwNFXVY_Xxl=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "en",
+      "width": 720,
+      "height": 1280,
+      "sha256": "cb226e430e3bfe193efbf4ccd8daee3fbab50aa0501197010087e6a5ea7c93fa"
+    },
+    {
+      "path": "assets/night-aquarium-en-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/H-J1ImsrZFUl15KI3WnLCQ74Ih9E8LVg7_0Rb1-tVjywNQHrDHSCUUbBSMT4wBnyMo2dGHlaUScR2sc1TVF0=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "en",
+      "width": 720,
+      "height": 1280,
+      "sha256": "00d85d1afdb37635e7985683491a7b4227e1e3de4d5eaceaf928dfc0598196a1"
+    },
+    {
+      "path": "assets/night-aquarium-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/KcrLpMJAVcg7HXmgCZLGvR1xEL7bgDyJxfNMAIngGFoxqdu7TYyRHT28AjK1NHcWAquU1WOSR7--SXj3TyGOdQo=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "29859084b39f2858efd6c013d3b0ae164fbfcd75a0822ccca4dccac1b25ae3cf"
+    },
+    {
+      "path": "assets/bubble-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/n8tAv2IMyWXdkzAdJl__7e7TJ8nI3i2siy01T6K8ryMW9o7BABqR20OravNKXmYGe0OJsySOiW6f5UWVs5rw=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "8c2911f097ac77fb7acc90a2c91ef1c82c6db85aea27d3dcd6d1825303475557"
+    },
+    {
+      "path": "assets/bubble-ja-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/N6E4RbbGpI1z-PykTTiM5pzEzVMTCbiUHYHmtAA3LAWMekWcbPpnCU3YpAvZ5QwP9cyJiMydUQSiVomGeCGlrT4=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "d7ffb9b0c6ddda1f02b9349f42df0467fd322c4bc908bbd9998f271eb34caee3"
+    },
+    {
+      "path": "assets/bubble-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/n8tAv2IMyWXdkzAdJl__7e7TJ8nI3i2siy01T6K8ryMW9o7BABqR20OravNKXmYGe0OJsySOiW6f5UWVs5rw=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "8c2911f097ac77fb7acc90a2c91ef1c82c6db85aea27d3dcd6d1825303475557"
+    },
+    {
+      "path": "assets/bubble-en-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/N6E4RbbGpI1z-PykTTiM5pzEzVMTCbiUHYHmtAA3LAWMekWcbPpnCU3YpAvZ5QwP9cyJiMydUQSiVomGeCGlrT4=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "d7ffb9b0c6ddda1f02b9349f42df0467fd322c4bc908bbd9998f271eb34caee3"
+    },
+    {
+      "path": "assets/bubble-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/Rr9eOhWVxUx0CH5r7Oq6QAnZfQlhf2tv32vmonfnBaM-RBLJOlWujLIjCsoGj7CZzkm2kZzUMr9woEZt9391BQ=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "fdee4f1107c3225d6f3569e1a451cd405e7ce3ad20561e8ed261b3bf30f55733"
+    },
+    {
+      "path": "assets/mamonya-merge-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/xGgAv0KZjwrHPE3MQBNpnrDcRzq4EQayXMi_pPQhrQAXKBwlv_uwWb2kVeCnobf3zmVz74T60xMdxkklKfhH=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "bfa0b2b3399095a7d82c78f27b11c6168988fbaa2b6e002ca251284f023c3349"
+    },
+    {
+      "path": "assets/mamonya-merge-ja-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/2x8ddqPWf2Ucd3I7gTbBjra0qfbKUcifeDBhf4L1xkaVt_G4a4fOCQoRdDwyDsrgemgXojBdCX1q_m_Mkn_5mQ=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "d0307ed2b52e43f88d2e35f79d7c7a4e3fa7dcc89be85c3e7d9878b14f5ce815"
+    },
+    {
+      "path": "assets/mamonya-merge-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/xGgAv0KZjwrHPE3MQBNpnrDcRzq4EQayXMi_pPQhrQAXKBwlv_uwWb2kVeCnobf3zmVz74T60xMdxkklKfhH=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "bfa0b2b3399095a7d82c78f27b11c6168988fbaa2b6e002ca251284f023c3349"
+    },
+    {
+      "path": "assets/mamonya-merge-en-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/2x8ddqPWf2Ucd3I7gTbBjra0qfbKUcifeDBhf4L1xkaVt_G4a4fOCQoRdDwyDsrgemgXojBdCX1q_m_Mkn_5mQ=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "d0307ed2b52e43f88d2e35f79d7c7a4e3fa7dcc89be85c3e7d9878b14f5ce815"
+    },
+    {
+      "path": "assets/mamonya-merge-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/dhbk2VbUQylkMYo2PQ9Ywu_CD0OC6mp2B7N5XUgBkM67KXfuyepxb2ZfaC_ubQP7bk4bbQ1BOiL9E6gotToMzDU=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "1a0cf55b8a12e19817a063c582ac2e749774866ea670c76755f01d2aab1a216f"
+    },
+    {
+      "path": "assets/mamonya-lantern-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/OF-tkls_jyvMSvU8QZj3XGDfZzmwR-eW6ZewfZ3HF2cb_q_2Q2pYgKvLs18YJ1oqTnGvPG0vCe7GTRosThE=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1616,
+      "sha256": "31d01b90962c96417ced4b658378acda10e186e1a48a563efd53f7d8c30911e6"
+    },
+    {
+      "path": "assets/mamonya-lantern-ja-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/4kdgWbcbBu2vDNLJfUjxkWg1dBChNNLAZa9JQbWmYl0a7hdG-O5gJOOw6Qc8lvNmAiGRyZL-1gGv3NUdfngG9u0=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1080,
+      "sha256": "dd9cd1c49036c92dcab55f47471ae9b2f2e2d210581992aa0da19c7a5fc34a88"
+    },
+    {
+      "path": "assets/mamonya-lantern-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/OF-tkls_jyvMSvU8QZj3XGDfZzmwR-eW6ZewfZ3HF2cb_q_2Q2pYgKvLs18YJ1oqTnGvPG0vCe7GTRosThE=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1616,
+      "sha256": "31d01b90962c96417ced4b658378acda10e186e1a48a563efd53f7d8c30911e6"
+    },
+    {
+      "path": "assets/mamonya-lantern-en-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/4kdgWbcbBu2vDNLJfUjxkWg1dBChNNLAZa9JQbWmYl0a7hdG-O5gJOOw6Qc8lvNmAiGRyZL-1gGv3NUdfngG9u0=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1080,
+      "sha256": "dd9cd1c49036c92dcab55f47471ae9b2f2e2d210581992aa0da19c7a5fc34a88"
+    },
+    {
+      "path": "assets/mamonya-lantern-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/5v0ydoyW66tKf8LexnDcW35ePcRQtBKnuZLozCri7eA9oBsP4QYoJB2EsPTYdO2Np_Dajhlx9-4qO2jT-k2bTw=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "90a5f38b0ff330fb88e768ed5fa5ccce68551dfb220b41b8b4d6135ed8fc67b8"
+    },
+    {
+      "path": "assets/koedeka-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/UeDBEjv7yArvNsItZegJPKed0VLeGQw1km0077uBoA2jaYIq0Wzuc4j37cDuJ_liQD8rZfFL6zoxKfBa85tBBOg=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "d166ddaa490d89935226a89c5d99b4cd8db23a8e4ddc5404d3eaa340a435860a"
+    },
+    {
+      "path": "assets/koedeka-ja-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/HgFU8JHs3-SEEoKq8a-dkkA67x_W7wWOILGLMV-GkMpVf4Vj3cEDPyVzp_0MQBFAskGaE4UdFicLIFDffjztga0=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "e725d6a1bc807a1f4f588d908b4e21e37a770031f7ec76c9e9c61e741af9c0b8"
+    },
+    {
+      "path": "assets/koedeka-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/UeDBEjv7yArvNsItZegJPKed0VLeGQw1km0077uBoA2jaYIq0Wzuc4j37cDuJ_liQD8rZfFL6zoxKfBa85tBBOg=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "d166ddaa490d89935226a89c5d99b4cd8db23a8e4ddc5404d3eaa340a435860a"
+    },
+    {
+      "path": "assets/koedeka-en-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/HgFU8JHs3-SEEoKq8a-dkkA67x_W7wWOILGLMV-GkMpVf4Vj3cEDPyVzp_0MQBFAskGaE4UdFicLIFDffjztga0=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1279,
+      "sha256": "e725d6a1bc807a1f4f588d908b4e21e37a770031f7ec76c9e9c61e741af9c0b8"
+    },
+    {
+      "path": "assets/koedeka-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/BHKmB4dM6mFzkPy6-rTfTo8bMV83kO4R-99cDLN8bbWKFbFJUe4H42IYf8nxjGmSSyEZXNAG8oorHhy4p6si=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "48e9524cca25b28186078b955aacbb5b3f26ef0415dae7bd8b4de0c95c1f91bc"
+    },
+    {
+      "path": "assets/kitchen-notes-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/rVO88JFnLJd-rRfk64qAhU17eSJDMp4mVqymTvFvIcn_9AkcAwkOK5KLLcq23u8XCD-kEDQiGIMusEg6bYdT2A=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "b694a0fa84af42aa94806e49fb3e5ae8c51cb19be82f8147838e06bd2d753c78"
+    },
+    {
+      "path": "assets/kitchen-notes-ja-shot-2.webp",
+      "source": "GrokBot exchange: REQ-20261108-02/screenshots/candidates.png",
+      "sourceType": "device-capture",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1616,
+      "sha256": "1a03eed595c04537db7c6c2eb91fca201565688c706b78814a6561c1d1f9f766",
+      "version": "1.1.7+20",
+      "capturedAt": "2026-11-08",
+      "sourceSha256": "a1067bbc4b49ce5b677f39cb17ef3e16d7064ed2e4149a7de4b9af195e979a73",
+      "limitation": "Local non-debug installation; version matches reported Play release, installer not verified."
+    },
+    {
+      "path": "assets/kitchen-notes-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/rVO88JFnLJd-rRfk64qAhU17eSJDMp4mVqymTvFvIcn_9AkcAwkOK5KLLcq23u8XCD-kEDQiGIMusEg6bYdT2A=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "b694a0fa84af42aa94806e49fb3e5ae8c51cb19be82f8147838e06bd2d753c78"
+    },
+    {
+      "path": "assets/kitchen-notes-en-shot-2.webp",
+      "source": "GrokBot exchange: REQ-20261108-02/screenshots/candidates.png",
+      "sourceType": "device-capture",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1616,
+      "sha256": "1a03eed595c04537db7c6c2eb91fca201565688c706b78814a6561c1d1f9f766",
+      "version": "1.1.7+20",
+      "capturedAt": "2026-11-08",
+      "sourceSha256": "a1067bbc4b49ce5b677f39cb17ef3e16d7064ed2e4149a7de4b9af195e979a73",
+      "limitation": "Local non-debug installation; version matches reported Play release, installer not verified."
+    },
+    {
+      "path": "assets/kitchen-notes-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/ru4kzlz_1DFH2zkKyAw1d7WXhwzoU7AbJnK_T53wYvjoSvMwUn11ueHVGTCEiCjIZTZAb6hvKrd11z7symeY4g=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "f31cf708e800264279d74b99625046c59428566dcdfd2b8107372ad6ecfdcbb9"
+    },
+    {
+      "path": "assets/hoshishirube-ja-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/rUSbqqLfbv_OniPsPHdrwP-PCX81kt--NnMBVUP3CMEEpOiifgeHQzWXkkVVmz5gvlEyq2qkiHbdPGmmiLkxZw=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "574138e0e33fe5d7630091084055ada7bdbf32ccbc8bad0f73196c4e06273ed9"
+    },
+    {
+      "path": "assets/hoshishirube-ja-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/-x6ztmt76y2B9K6zBSFktm8SuOrBc-iCBMq3Sfk-1Dg-O-4azJWBRRwcQIyH-XSHijX9qipYGxB2wJkuusdO8g=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "f91168d4729c7951929f02b30345eb57d6ea95b5bbb939ee1f4c5cdcc4f0b039"
+    },
+    {
+      "path": "assets/hoshishirube-en-shot-1.webp",
+      "source": "https://play-lh.googleusercontent.com/rUSbqqLfbv_OniPsPHdrwP-PCX81kt--NnMBVUP3CMEEpOiifgeHQzWXkkVVmz5gvlEyq2qkiHbdPGmmiLkxZw=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "574138e0e33fe5d7630091084055ada7bdbf32ccbc8bad0f73196c4e06273ed9"
+    },
+    {
+      "path": "assets/hoshishirube-en-shot-2.webp",
+      "source": "https://play-lh.googleusercontent.com/-x6ztmt76y2B9K6zBSFktm8SuOrBc-iCBMq3Sfk-1Dg-O-4azJWBRRwcQIyH-XSHijX9qipYGxB2wJkuusdO8g=w1080",
+      "sourceType": "google-play",
+      "screenLanguage": "ja",
+      "width": 720,
+      "height": 1280,
+      "sha256": "f91168d4729c7951929f02b30345eb57d6ea95b5bbb939ee1f4c5cdcc4f0b039"
+    },
+    {
+      "path": "assets/hoshishirube-icon.webp",
+      "source": "https://play-lh.googleusercontent.com/fLgTPv7fHNdlYFgraCAOPNmXCgBusr5QOOvx1sXOTiORVbJiIIl6bsEW_GlbnGrR8ON7ZBH4MEHIAfAwNhKzew=w512-h512",
+      "sourceType": "google-play",
+      "width": 512,
+      "height": 512,
+      "sha256": "811bdbd8b5bf820635974b79b3d23b3e1839d9272ae206d2b6f196dedb249667"
+    },
+    {
+      "path": "assets/night-aquarium-demo.mp4",
+      "source": "GrokBot exchange: REQ-20261106-08/sources/aquarium.mp4",
+      "sourceType": "device-capture",
+      "version": "1.0.13+18",
+      "capturedAt": "2026-11-07",
+      "sourceSha256": "0acbfa7b4932b06b24bb48bca90b403b62b3e6f50fe6c13bedab34620fc89a46",
+      "sha256": "653d84ec8aed0955dce4ae01d0e793078920f496fcffa4eecfd23d3959eb551a",
+      "width": 540,
+      "height": 894,
+      "transforms": "Crop bottom ad banner at y=1788; resize whole remaining frame to 540x894; H.264, no audio. No UI or creature edits. Source record identifies installer com.android.vending."
+    }
+  ]
+}

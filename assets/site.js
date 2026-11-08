@@ -1,11 +1,37 @@
-(()=>{'use strict';
- const params=new URLSearchParams(location.search),source=params.get('from'),campaign=params.get('campaign');
- const sources=new Set(['tiktok','instagram','youtube','x','google','qr']);
- if(sources.has(source)){
-  document.querySelectorAll('a[data-store]').forEach(a=>{const u=new URL(a.href),c=campaign&&/^[a-zA-Z0-9_-]{1,64}$/.test(campaign)?campaign:`${a.dataset.app}_${a.dataset.place}`;const tags={utm_source:source,utm_medium:source==='qr'?'offline':source==='google'?'organic_search':'organic_social',utm_campaign:c};Object.entries(tags).forEach(([k,v])=>u.searchParams.set(k,v));u.searchParams.set('referrer',new URLSearchParams(tags).toString());a.href=u.href;});
-  document.querySelectorAll('a[data-internal]').forEach(a=>{const u=new URL(a.href);if(u.origin!==location.origin)return;u.searchParams.set('from',source);if(campaign&&/^[a-zA-Z0-9_-]{1,64}$/.test(campaign))u.searchParams.set('campaign',campaign);a.href=u.href;});
- }
- const filters=document.querySelector('.filters');if(!filters)return;filters.hidden=false;
- const cards=Array.from(document.querySelectorAll('#apps .app-card'));
- filters.addEventListener('click',e=>{const b=e.target.closest('button[data-filter]');if(!b)return;filters.querySelectorAll('button').forEach(x=>{const active=x===b;x.classList.toggle('active',active);x.setAttribute('aria-pressed',String(active));});let count=0;cards.forEach(c=>{c.hidden=b.dataset.filter!=='all'&&c.dataset.category!==b.dataset.filter;if(!c.hidden)count++;});document.querySelector('#filter-status').textContent=`${count}件のアプリを表示しています。`;});
-})();
+import {resolveAttribution, internalUrl, playUrl} from './attribution.js';
+
+const storageKey = 'springport_attribution_v1';
+let saved = null;
+try { saved = JSON.parse(sessionStorage.getItem(storageKey)); } catch { /* Storage is optional. */ }
+const attribution = resolveAttribution(location.search, document.referrer, location.origin, saved);
+if (attribution) {
+  try { sessionStorage.setItem(storageKey, JSON.stringify(attribution)); } catch { /* URL propagation still works. */ }
+}
+const lang = document.documentElement.lang === 'en' ? 'en' : 'ja';
+document.querySelectorAll('a[data-store]').forEach(link => {
+  link.href = playUrl(link.href, location.href, attribution, link.dataset.app, link.dataset.place, lang);
+});
+document.querySelectorAll('a[data-internal]').forEach(link => {
+  link.href = internalUrl(link.href, location.href, attribution);
+});
+const filters = document.querySelector('.filters');
+if (filters) {
+  const cards = Array.from(document.querySelectorAll('#apps .app-card'));
+  const status = document.querySelector('#filter-status');
+  filters.hidden = false;
+  filters.addEventListener('click', event => {
+    const button = event.target.closest('button[data-filter]');
+    if (!button || !filters.contains(button)) return;
+    filters.querySelectorAll('button').forEach(item => {
+      const active = item === button;
+      item.classList.toggle('active', active);
+      item.setAttribute('aria-pressed', String(active));
+    });
+    let count = 0;
+    cards.forEach(card => {
+      card.hidden = button.dataset.filter !== 'all' && card.dataset.category !== button.dataset.filter;
+      if (!card.hidden) count++;
+    });
+    if (status) status.textContent = lang === 'en' ? `Showing ${count} ${count === 1 ? 'app' : 'apps'}.` : `${count}件のアプリを表示しています。`;
+  });
+}

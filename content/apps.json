@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "night-aquarium",
+    "id": "com.springport.night_aquarium_fortune",
+    "color": "#0b5d72",
+    "soft": "#e5f1f2",
+    "category": "unwind",
+    "policy": "night-aquarium-omikuji",
+    "related": [
+      "hoshishirube",
+      "mamonya-lantern"
+    ],
+    "ja": {
+      "name": "ナイトアクアリウムおみくじ",
+      "line": "今日の運勢をひいたら、夜の水槽でひと休み。",
+      "description": "毎日のおみくじから、少しずつ自分の水族館へ。出会った生き物や真珠を集め、魚たちが泳ぐ静かな時間を楽しめます。",
+      "features": [
+        [
+          "今日の小さな楽しみに",
+          "筒をタップ、または端末を振っておみくじを。運勢、ラッキーカラー、ひとことメッセージから、今日のヒントを楽しめます。"
+        ],
+        [
+          "真珠をためて、新しい出会いへ",
+          "おみくじで出会う生き物に加え、ためた真珠で図鑑からお迎えすることも。全27種から、水槽に出す生き物を選べます。"
+        ],
+        [
+          "眺めて、エサをあげて",
+          "集めた魚やクラゲが泳ぐ夜の水槽。画面をタップしてエサをあげたり、BGMのオン・オフを切り替えたりして楽しめます。"
+        ]
+      ],
+      "steps": [
+        "おみくじを引く",
+        "結果とメッセージを見る",
+        "水槽や図鑑を楽しむ"
+      ],
+      "note": "通常のおみくじは1日1回。新しい生き物が毎回増えるわけではありません。動画広告による引き直し・真珠の受け取りがあります。占いはエンターテインメントです。",
+      "storeName": "おみくじ・今日の運勢｜癒やしのナイトアクアリウム"
+    },
+    "en": {
+      "name": "Omikuji: Fortune Aquarium",
+      "line": "A daily fortune. A quiet moment by the water.",
+      "description": "Draw a Japanese fortune, then watch the sea life you have collected. Build a small night aquarium, one discovery at a time.",
+      "features": [
+        [
+          "A little ritual for your day",
+          "Omikuji are fortune slips traditionally drawn at Japanese shrines and temples. Tap or shake to reveal your daily luck, lucky color and a short message."
+        ],
+        [
+          "A collection that grows with you",
+          "Some draws bring a new creature. Save pearls from fortunes to welcome more of the 27 species, and choose which ones swim in your tank."
+        ],
+        [
+          "Stay for the aquarium",
+          "Watch your collection swim, drop food with a tap, and turn the background music on or off."
+        ]
+      ],
+      "steps": [
+        "Draw your daily fortune",
+        "Read your message and collect pearls",
+        "Visit your collection and aquarium"
+      ],
+      "note": "One regular fortune draw per day. New creatures are not guaranteed. Optional video ads offer redraws or extra pearls. Fortunes are for entertainment.",
+      "storeName": "Omikuji: Fortune Aquarium"
+    },
+    "language": "ja-en"
+  },
+  {
+    "slug": "bubble",
+    "id": "com.springport.bubblegame",
+    "color": "#1553aa",
+    "soft": "#e8effb",
+    "category": "solo",
+    "policy": "bubble-fever-60",
+    "related": [
+      "mamonya-merge",
+      "mamonya-lantern"
+    ],
+    "ja": {
+      "name": "Bubble Fever 60",
+      "line": "あと一回。その60秒が、気持ちいい。",
+      "description": "狙うのは、画面に出るTARGETの色。連鎖とフィーバーをつなぎ、60秒で自己ベストへ。敵に重なる泡を狙うバトルも楽しめます。",
+      "features": [
+        [
+          "60秒のスコアアタック",
+          "TARGETと同じ色を狙ってタップ。短い時間の中で、自分のベストスコアを目指します。"
+        ],
+        [
+          "連鎖とフィーバー",
+          "泡の合体、連鎖、フィーバーを組み合わせて、一気に消す気持ちよさを楽しめます。"
+        ],
+        [
+          "バトルにも挑戦",
+          "タイミングを合わせて敵を攻撃。誤った色は敵を回復させるので、狙いも大切です。"
+        ]
+      ],
+      "steps": [
+        "TARGETの色を確認",
+        "同じ色の泡を狙う",
+        "連鎖をつないで記録に挑戦"
+      ],
+      "note": "紹介画像はGoogle Playに掲載しているプロモーション用画像です。",
+      "storeName": "Bubble Fever 60｜60秒バブル割りゲーム"
+    },
+    "en": {
+      "name": "Bubble Fever 60",
+      "line": "One minute. One more chain.",
+      "description": "Spot the target color, pop bubbles and chase your best in 60 seconds. Combos and Fever turn a quick break into a lively score challenge.",
+      "features": [
+        [
+          "A quick score chase",
+          "Tap bubbles that match the target color. Keep your rhythm and build your best score before time runs out."
+        ],
+        [
+          "Set off a chain reaction",
+          "Matching bubbles merge into higher levels. Line up a big pop, charge a Special and ride Fever for a burst of points."
+        ],
+        [
+          "Try a different kind of battle",
+          "Pop the target color over enemies to attack. Timing matters: a wrong-color pop can heal your opponent."
+        ]
+      ],
+      "steps": [
+        "Check the target color",
+        "Tap matching bubbles",
+        "Build combos and aim for a new best"
+      ],
+      "note": "Game text: Japanese. The promotional images also show Japanese text.",
+      "storeName": "Bubble Fever 60: Color Pop"
+    },
+    "language": "ja-published"
+  },
+  {
+    "slug": "mamonya-merge",
+    "id": "com.springport.mamonya_merge_puzzle",
+    "color": "#b44050",
+    "soft": "#f9e9eb",
+    "category": "solo",
+    "policy": "mamonya-merge-bump-evolve",
+    "related": [
+      "mamonya-lantern",
+      "bubble"
+    ],
+    "ja": {
+      "name": "まもにゃ：ひっぱり合体マージパズル",
+      "line": "ねらって、飛ばして、くっつける。",
+      "description": "小さな守り神ねこをひっぱって発射。同じ仲間に当てて、ひとまわり大きな姿へ。狙った一投から合体が続く楽しさを味わえます。",
+      "features": [
+        [
+          "ひっぱる、狙う、指を離す",
+          "まもにゃを飛ばす角度と着地点を考える一投。指を離すだけの操作で、合体のきっかけを作ります。"
+        ],
+        [
+          "仲間同士で、次の姿へ",
+          "同じ姿のまもにゃがぶつかると合体・進化。大きくなるかわいさと、連続で合体する気持ちよさを楽しめます。"
+        ],
+        [
+          "OUTラインを避けて記録に挑戦",
+          "まもにゃが下のOUTラインへ落ちるとゲームオーバー。盤面を見渡し、次につながる一投でスコアを伸ばしましょう。"
+        ]
+      ],
+      "steps": [
+        "まもにゃをひっぱる",
+        "同じ種類を狙って離す",
+        "合体させて次の進化へ"
+      ],
+      "note": "紹介画像はGoogle Playに掲載しているプロモーション用画像です。",
+      "storeName": "まもにゃ：ひっぱり合体マージパズル"
+    },
+    "en": {
+      "name": "Mamonya Merge",
+      "line": "Pull back. Let go. Watch them grow.",
+      "description": "Launch round guardian cats into matching Mamonya to merge them. A simple shot can set off a satisfying chain of bigger, cuter forms.",
+      "features": [
+        [
+          "Make every angle count",
+          "Pull back, aim and release. Pick your landing spot to bring matching cats together."
+        ],
+        [
+          "Merge your way up",
+          "Matching Mamonya evolve when they collide. Plan the next shot and see how far your collection of shapes can grow."
+        ],
+        [
+          "Keep clear of the OUT line",
+          "Balance your board and chase a higher score. A cat falling below the OUT line ends the run."
+        ]
+      ],
+      "steps": [
+        "Pull back to aim",
+        "Release toward a matching Mamonya",
+        "Merge, evolve and keep the board in play"
+      ],
+      "note": "Game text: Japanese. Mamonya are fictional guardian cats; the character on their foreheads means “protect.”",
+      "storeName": "Mamonya Merge: Cat Merge Drop"
+    },
+    "language": "ja-published"
+  },
+  {
+    "slug": "mamonya-lantern",
+    "id": "com.springport.mamonya_mystic_lanterns",
+    "color": "#375b66",
+    "soft": "#e9f0ef",
+    "category": "solo",
+    "policy": "mamonya-the-mystic-lanterns",
+    "related": [
+      "mamonya-merge",
+      "night-aquarium"
+    ],
+    "ja": {
+      "name": "まもにゃと不思議な提灯",
+      "line": "その光の先に、まもにゃがいる。",
+      "description": "頼りになるのは、手元の提灯の灯り。夜の神社を移動・ズームしながら、暗がりに隠れた守り神ねこ「まもにゃ」を見つけましょう。",
+      "features": [
+        [
+          "光の届く場所を探す",
+          "提灯で暗い神社を照らしながら、まもにゃを見つけてタップします。"
+        ],
+        [
+          "移動とズームで探索",
+          "ドラッグで移動、ピンチで拡大。見落としていた場所を、じっくり探せます。"
+        ],
+        [
+          "道具を使って発見",
+          "岩を動かす手袋や、探索を助ける鈴などの道具を活用。間違ったタップは残り時間が減ります。"
+        ]
+      ],
+      "steps": [
+        "ステージの願いを確認",
+        "提灯で照らしながら探索",
+        "まもにゃを見つけてタップ"
+      ],
+      "note": "願いの成就はゲーム内の演出です。現実の結果を保証するものではありません。",
+      "storeName": "探し物ゲーム まもにゃと不思議な提灯"
+    },
+    "en": {
+      "name": "Mamonya: Lantern Seek & Find",
+      "line": "A small light. A hidden guardian cat.",
+      "description": "Explore a Japanese shrine at night by lantern light. Look closely, move around and find the Mamonya hiding in the dark.",
+      "features": [
+        [
+          "Follow the light",
+          "Only the lantern-lit area reveals where you can find and tap a Mamonya."
+        ],
+        [
+          "Look a little closer",
+          "Drag to move and pinch to zoom. Search corners you might have missed on your first look."
+        ],
+        [
+          "Bring a few useful tools",
+          "Move rocks with gloves or use a bell to help your search. Wrong taps cost time, so take care where you tap."
+        ]
+      ],
+      "steps": [
+        "Read the wish for the stage",
+        "Explore with your lantern",
+        "Find and tap the hidden Mamonya"
+      ],
+      "note": "Ema are wooden wish plaques found at Japanese shrines. Granting a wish here is part of the game’s story.",
+      "storeName": "Mamonya: Lantern Seek & Find"
+    },
+    "language": "ja-en"
+  },
+  {
+    "slug": "koedeka",
+    "id": "com.springport.love_shout",
+    "color": "#bf4a23",
+    "soft": "#fff0df",
+    "category": "together",
+    "policy": "love-shout",
+    "related": [
+      "bubble",
+      "mamonya-merge"
+    ],
+    "ja": {
+      "name": "コエデカ！",
+      "line": "大きすぎても、負け。",
+      "description": "スマホ1台を回して、2〜5人で声量勝負。前の人より少し大きく、でも上げすぎずに。絶妙な声のさじ加減で盛り上がるパーティーゲームです。",
+      "features": [
+        [
+          "ちょうどよい声量で勝負",
+          "勝ち抜きバトルはKINGより1〜99ポイント高ければ成功。低すぎても、100ポイント以上高くても脱落します。"
+        ],
+        [
+          "協力する声量リレー",
+          "前の成功スコアを少しずつ超え、10回の成功を目指します。失敗できるのは3回まで。"
+        ],
+        [
+          "好きなお題で遊ぶ",
+          "用意されたお題に加え、自分たちの言葉を追加できます。スマホ1台で、順番に挑戦します。"
+        ]
+      ],
+      "steps": [
+        "2〜5人でモードとお題を選ぶ",
+        "同じスマホで順番に声を出す",
+        "前の人より少し大きい声を狙う"
+      ],
+      "note": "周囲の迷惑にならない場所で、無理のない声量で遊んでください。公平に比べるため、同じ端末・同じくらいの距離で使います。",
+      "storeName": "コエデカ！声量バトル｜大声パーティーゲーム"
+    },
+    "en": {
+      "name": "KOEDEKA!",
+      "line": "A little louder. Too much, and you’re out.",
+      "description": "Pass one phone between 2–5 players and try to beat the previous voice score. The fun is in judging just how much louder to go.",
+      "features": [
+        [
+          "Find the narrow winning margin",
+          "In Knockout Battle, beat the KING by 1–99 points. A lower or equal score, or a jump of 100 points or more, eliminates you."
+        ],
+        [
+          "Keep a relay going together",
+          "Beat the last successful score as a team. Reach ten successes before three misses end the run."
+        ],
+        [
+          "Make the prompts your own",
+          "Choose a prompt set or add your own phrases. Take turns on the same phone and enjoy the reactions around you."
+        ]
+      ],
+      "steps": [
+        "Gather 2–5 players and pick a mode",
+        "Take turns with one phone",
+        "Aim for a careful increase in volume"
+      ],
+      "note": "Play somewhere suitable, at a comfortable volume. Use the same phone and a similar microphone distance for everyone.",
+      "storeName": "KOEDEKA! Voice Party Game"
+    },
+    "language": "ja-en"
+  },
+  {
+    "slug": "kitchen-notes",
+    "id": "com.springport.kitchennotes",
+    "color": "#477b39",
+    "soft": "#eef3e7",
+    "category": "cook",
+    "policy": "kitchen-notes",
+    "related": [
+      "night-aquarium",
+      "hoshishirube"
+    ],
+    "ja": {
+      "name": "キッチンノート",
+      "line": "「今日の夕飯、何にしよう？」から、調理まで。",
+      "description": "使いたい食材・調理時間・人数から、夕飯候補を最大3品に。材料の人数換算と買い物メモ、手順チェック、タイマーまで、毎日の料理をひとつにつなぎます。",
+      "features": [
+        [
+          "家にある食材から、今日の一品へ",
+          "食材・時間・人数を選ぶと、端末内のレシピから候補を最大3品提案。何を作るか迷う時間を、料理の準備に変えられます。"
+        ],
+        [
+          "作る人数で確認、そのまま買い物へ",
+          "人数に合わせて材料を換算。買い足すものは買い物メモにまとめ、購入済みをチェックできます。"
+        ],
+        [
+          "手順と時間を、ひとつの画面で",
+          "終わった手順にチェックし、待ち時間には料理タイマーを。外部AIで作ったレシピの取り込み、料理写真、バックアップにも対応しています。"
+        ]
+      ],
+      "steps": [
+        "使える食材・調理時間・人数を選ぶ",
+        "候補から一品を決め、買い物メモを確認",
+        "手順をチェックし、タイマーで調理"
+      ],
+      "note": "夕飯候補は端末内のレシピから選びます。生成AIが新しい料理を自動生成する機能ではありません。外部AIのレシピは、アプリのプロンプトでJSON形式にして取り込みます。タイマー開始前に通知の無効を確認しますが、アラームは権限・音量・端末設定に左右されます。",
+      "storeName": "キッチンノート｜AIレシピ保存・料理タイマー"
+    },
+    "en": {
+      "name": "Kitchen Notes",
+      "line": "From “What’s for dinner?” to ready to cook.",
+      "description": "Find up to three dinner ideas using your ingredients, time and servings. Keep the shopping list, recipe steps and timers close at hand.",
+      "features": [
+        [
+          "Decide what to cook",
+          "Choose your ingredients, time and servings. Kitchen Notes suggests up to three options from recipes stored on your device."
+        ],
+        [
+          "Shop for the right amounts",
+          "Scale ingredients for the people you are cooking for, then save what you need in a shopping memo. Check items off as you shop."
+        ],
+        [
+          "Keep your place in the kitchen",
+          "Check off recipe steps and set cooking timers. Save recipes, add your food photos, and back up your collection."
+        ]
+      ],
+      "steps": [
+        "Choose ingredients, time and servings",
+        "Pick a dish and check your shopping memo",
+        "Follow the steps and start a timer"
+      ],
+      "note": "Dinner suggestions use saved recipe data. AI recipe creation happens in an external service; import its recipe JSON using the app’s prompt. Timer alerts depend on Android permissions, volume and device settings.",
+      "storeName": "Kitchen Notes: AI Recipe Saver"
+    },
+    "language": "ja-en"
+  },
+  {
+    "slug": "hoshishirube",
+    "id": "com.springport.arcana_of_love",
+    "color": "#6a4685",
+    "soft": "#f0eaf6",
+    "category": "unwind",
+    "policy": "arcana-of-love",
+    "related": [
+      "night-aquarium",
+      "mamonya-lantern"
+    ],
+    "ja": {
+      "name": "星しるべ",
+      "line": "今日の運勢も、気になる相性も。",
+      "description": "朝の星座占いも、気になる人との相性も。名前や生年月日を使う占い、恋みくじ、タイプ診断から、その日の気分に合う読み物を楽しめます。",
+      "features": [
+        [
+          "朝の運勢を、星座から",
+          "自分の星座を選んで、今日の運勢とアドバイスを。毎日の小さな読み物として楽しめます。"
+        ],
+        [
+          "気になる相性を、会話のきっかけに",
+          "名前や生年月日から相性を見たり、質問に答えて恋愛タイプを知ったり。ふたりや自分を別の角度から眺められます。"
+        ],
+        [
+          "気分に合わせて占いを選ぶ",
+          "「未来の羅針盤」や恋みくじも用意。星空や月をモチーフにした画面で、ひとつずつメッセージを読めます。"
+        ]
+      ],
+      "steps": [
+        "楽しみたい占いを選ぶ",
+        "必要な項目を入力・回答する",
+        "結果のメッセージを読む"
+      ],
+      "note": "占いや診断は娯楽を目的としています。的中や、重要な判断の結果を保証するものではありません。",
+      "storeName": "星しるべ｜相性占い・星座占い・恋愛診断"
+    },
+    "en": {
+      "name": "Love Arcana",
+      "line": "A little perspective, written in the stars.",
+      "description": "Check your zodiac reading, explore compatibility or try a love-type quiz. Make a small space in your day for a lighthearted reading.",
+      "features": [
+        [
+          "Start with your zodiac",
+          "Choose your sign and read a daily message and a hint for the day ahead."
+        ],
+        [
+          "Explore a connection",
+          "Use names and birthdays for a compatibility reading, or answer a quiz to explore your love style."
+        ],
+        [
+          "Choose a reading for your mood",
+          "Try the compass reading or draw a love fortune. Read each message against a starry, moonlit backdrop."
+        ]
+      ],
+      "steps": [
+        "Choose a reading",
+        "Enter the requested details or answer questions",
+        "Read your message at your own pace"
+      ],
+      "note": "Readings and quizzes are for entertainment. They do not guarantee future events or relationship outcomes.",
+      "storeName": "Love Arcana: Love Test, Zodiac"
+    },
+    "language": "ja-en"
+  }
+]
